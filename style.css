@@ -1,0 +1,30 @@
+body{ 
+    background:black;
+    color: red;
+    margin: 0px;
+}
+header{
+    border-bottom: solid 2px rgb(255, 0, 0) ;
+    padding: 20px;
+    font-size: 50;
+}
+section{
+    background:rgb(51, 12, 12);
+    display: flex;
+    justify-content:center;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.titulo-video{
+    margin:5%;
+}
+.fila-videos { 
+    display:flex;
+    overflow-x: auto;
+    gap : 20px;
+}
+.fila {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+v
