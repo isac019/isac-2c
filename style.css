@@ -8,7 +8,7 @@ header{
     padding: 20px;
     font-size: 50;
 }
-section{
+.chamada{
     background:rgb(51, 12, 12);
     display: flex;
     justify-content:center;
@@ -27,4 +27,4 @@ section{
     padding-left: 30px;
     padding-right: 30px;
 }
-v
+
